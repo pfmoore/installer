@@ -1,6 +1,6 @@
 import pytest
 
-from installer.records import InvalidRecord, Record, parse_record_file
+from installer.parsers import InvalidRecord, Record, parse_record_file
 
 
 #
